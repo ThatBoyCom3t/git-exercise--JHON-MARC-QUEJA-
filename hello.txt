@@ -1,0 +1,2 @@
+Hello, this is Jhon marc Queja learning Git!
+git status
